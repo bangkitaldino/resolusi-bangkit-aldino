@@ -1,0 +1,4 @@
+Resolusi:
+belajar HTML
+belajar CSS
+belajar JavaScript
